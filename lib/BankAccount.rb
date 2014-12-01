@@ -4,7 +4,7 @@ class BankAccount
 		@count=0
 		@balance=money
 		@accountNumber=1
-		@name="peal"
+		@name="peal2"
 	end 
 	def withdraw(numbers)
 		#puts "#{(@balance-numbers)}"
